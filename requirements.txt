@@ -1,0 +1,8 @@
+# Python 3.11-3.13 compatible (playwright 1.49+ uses greenlet with 3.13 wheels)
+playwright>=1.49.0
+pytest>=8.1.1
+pytest-playwright>=0.4.4
+pytest-html>=4.1.1
+requests>=2.31.0
+openai>=1.14.0
+python-dotenv>=1.0.1
