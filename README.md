@@ -1,6 +1,7 @@
 # TestMu AI - SDET Hackathon Submission
 
 > **Assignment:** Set up a test framework, use LLMs to generate test cases, wire an LLM into the test pipeline as a Failure Explainer & Flaky Test Classifier.
+> <img width="1901" height="892" alt="image" src="https://github.com/user-attachments/assets/daceb86a-5900-4206-95b0-9217b460596c" />
 
 ---
 
